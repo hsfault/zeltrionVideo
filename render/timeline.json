@@ -1,0 +1,270 @@
+{
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "duration": 40.0,
+ "bpm": 120,
+ "shots": [
+  {
+   "id": "hook",
+   "start": 0.0,
+   "end": 4.0
+  },
+  {
+   "id": "control",
+   "start": 4.0,
+   "end": 6.2
+  },
+  {
+   "id": "scan",
+   "start": 6.2,
+   "end": 7.2
+  },
+  {
+   "id": "terminal",
+   "start": 7.2,
+   "end": 9.0
+  },
+  {
+   "id": "architect",
+   "start": 9.0,
+   "end": 13.0
+  },
+  {
+   "id": "breach",
+   "start": 13.0,
+   "end": 16.0
+  },
+  {
+   "id": "home",
+   "start": 16.0,
+   "end": 18.5
+  },
+  {
+   "id": "services",
+   "start": 18.5,
+   "end": 20.0
+  },
+  {
+   "id": "justask",
+   "start": 20.0,
+   "end": 21.0
+  },
+  {
+   "id": "process",
+   "start": 21.0,
+   "end": 22.0
+  },
+  {
+   "id": "zelrise",
+   "start": 22.0,
+   "end": 23.5
+  },
+  {
+   "id": "courses",
+   "start": 23.5,
+   "end": 24.5
+  },
+  {
+   "id": "wall",
+   "start": 24.5,
+   "end": 25.5
+  },
+  {
+   "id": "contact",
+   "start": 25.5,
+   "end": 26.5
+  },
+  {
+   "id": "dashboard",
+   "start": 26.5,
+   "end": 28.0
+  },
+  {
+   "id": "emblem",
+   "start": 28.0,
+   "end": 34.0
+  },
+  {
+   "id": "cta",
+   "start": 34.0,
+   "end": 40.0
+  }
+ ],
+ "fx": [
+  {
+   "t": 0.0,
+   "type": "flash",
+   "dur": 0.15,
+   "amt": 0.35,
+   "color": [
+    1.0,
+    0.25,
+    0.25
+   ]
+  },
+  {
+   "t": 0.0,
+   "type": "glitch",
+   "dur": 0.35,
+   "amt": 1.0
+  },
+  {
+   "t": 2.7,
+   "type": "glitch",
+   "dur": 0.2,
+   "amt": 0.8
+  },
+  {
+   "t": 4.0,
+   "type": "zoom",
+   "dur": 0.3,
+   "amt": 0.35
+  },
+  {
+   "t": 4.0,
+   "type": "glitch",
+   "dur": 0.25,
+   "amt": 0.7
+  },
+  {
+   "t": 6.2,
+   "type": "zoom",
+   "dur": 0.25,
+   "amt": 0.3
+  },
+  {
+   "t": 7.2,
+   "type": "glitch",
+   "dur": 0.3,
+   "amt": 0.9
+  },
+  {
+   "t": 8.55,
+   "type": "flash",
+   "dur": 0.3,
+   "amt": 0.5,
+   "color": [
+    1.0,
+    0.85,
+    0.8
+   ]
+  },
+  {
+   "t": 9.0,
+   "type": "zoom",
+   "dur": 0.35,
+   "amt": 0.4
+  },
+  {
+   "t": 13.0,
+   "type": "flash",
+   "dur": 0.25,
+   "amt": 0.8,
+   "color": [
+    1.0,
+    0.3,
+    0.3
+   ]
+  },
+  {
+   "t": 13.0,
+   "type": "zoom",
+   "dur": 0.4,
+   "amt": 0.5
+  },
+  {
+   "t": 16.0,
+   "type": "zoom",
+   "dur": 0.35,
+   "amt": 0.45
+  },
+  {
+   "t": 18.5,
+   "type": "zoom",
+   "dur": 0.25,
+   "amt": 0.35
+  },
+  {
+   "t": 19.25,
+   "type": "zoom",
+   "dur": 0.2,
+   "amt": 0.25
+  },
+  {
+   "t": 20.0,
+   "type": "zoom",
+   "dur": 0.25,
+   "amt": 0.35
+  },
+  {
+   "t": 21.0,
+   "type": "zoom",
+   "dur": 0.25,
+   "amt": 0.35
+  },
+  {
+   "t": 22.0,
+   "type": "flash",
+   "dur": 0.2,
+   "amt": 0.6,
+   "color": [
+    1.0,
+    1.0,
+    1.0
+   ]
+  },
+  {
+   "t": 23.5,
+   "type": "zoom",
+   "dur": 0.25,
+   "amt": 0.35
+  },
+  {
+   "t": 24.5,
+   "type": "zoom",
+   "dur": 0.3,
+   "amt": 0.4
+  },
+  {
+   "t": 25.5,
+   "type": "zoom",
+   "dur": 0.25,
+   "amt": 0.35
+  },
+  {
+   "t": 26.5,
+   "type": "zoom",
+   "dur": 0.25,
+   "amt": 0.35
+  },
+  {
+   "t": 30.4,
+   "type": "flash",
+   "dur": 0.45,
+   "amt": 0.85,
+   "color": [
+    1.0,
+    0.97,
+    0.92
+   ]
+  },
+  {
+   "t": 34.0,
+   "type": "zoom",
+   "dur": 0.3,
+   "amt": 0.2
+  },
+  {
+   "t": 34.95,
+   "type": "flash",
+   "dur": 0.3,
+   "amt": 0.35,
+   "color": [
+    1.0,
+    0.9,
+    0.85
+   ]
+  }
+ ]
+}

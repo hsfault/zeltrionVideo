@@ -1,0 +1,18 @@
+{
+  "name": "zeltrion-reel-renderer",
+  "version": "1.0.0",
+  "description": "Deterministic Three.js renderer for the Zeltrion 'The System Is Live' Instagram reel",
+  "main": "capture.mjs",
+  "scripts": {
+    "render": "node capture.mjs ../frames 0 1200"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.169.0"
+  },
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "playwright": "1.56.1"
+  }
+}
